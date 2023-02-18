@@ -1,0 +1,28 @@
+.main {
+
+height: 80px;
+width: 100%;
+
+background-color: black;
+
+}
+.ndiv{
+color: beige;
+margin-left: 5%;
+margin-right: 5%;
+padding-top: 2%;
+padding-bottom: 1%;
+
+}
+.img1{
+
+height: 20px;
+width: 170px;
+
+}
+.hut{
+
+    display: flex;
+            flex-direction: row;
+            
+}
